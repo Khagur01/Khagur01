@@ -1,25 +1,21 @@
-<h1 align="center">Merhaba 👋, ben Shamil</h1>
-<h3 align="center">Merhaba, ben Shamil. Yazılım geliştirme alanında çözüm odaklı, yeniliğe açık ve sürekli kendini geliştirmeye kendini adamış bir backend geliştiricisiyim. .NET Core ve C# teknolojilerine odaklanıyor ve ASP.NET Core ve Entity Framework Core gibi araçları kullanarak ölçeklenebilir ve sürdürülebilir web uygulamaları geliştiriyorum. Temiz Mimari, SOLID prensipleri, katmanlı mimari ve Alan Odaklı Tasarım (DDD) gibi yazılım tasarım prensiplerine büyük önem veriyorum. Projelerimde Web API, JWT tabanlı kimlik doğrulama, AutoMapper, DTO kullanımı, FluentValidation, Swagger, Birim Testi (xUnit/NUnit) ve Depo Deseni gibi teknolojilerle sıklıkla çalışıyorum. Git, Docker, Postman ve sürüm kontrol sistemleri gibi araçlar günlük geliştirme rutinimin bir parçasıdır. Takım çalışmasına değer veren, sorumluluk alan ve detaylara dikkat eden bir geliştirici olarak, yazılım dünyasındaki gelişmeleri aktif olarak takip ediyor ve açık kaynaklı katkılar ve kişisel projeler aracılığıyla kendimi sürekli geliştiriyorum. Amacım, kullanıcılara gerçek değer sunan yazılımlar geliştirmek ve uzun vadede yüksek kaliteli yazılım mimarileri tasarlayabilen bir mühendis olmaktır.</h3>
+# 💫 About Me:
+🌱 I am focusing on .NET Core, C#, Clean Architecture, and microservices architecture. I am also learning ASP.NET Core Web API development and Entity Framework Core.<br>💬 You can ask me about backend development, the .NET ecosystem, RESTful API design, database management, and software architectures.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khagur01&label=Profile%20views&color=0e75b6&style=flat" alt="khagur01" /> </p>
 
-- 🌱 Şu anda öğreniyorum **.NET Core, C#, Temiz Mimari ve mikro hizmet mimarisine odaklanıyorum. Ayrıca ASP.NET Core Web API geliştirme ve Entity Framework Core öğreniyorum.**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamilkhagur) 
 
-- 💬 Bana şu konularda soru sorabilirsiniz: **Backend geliştirme, .NET ekosistemi, RESTful API tasarımı, veritabanı yönetimi ve yazılım mimarileri hakkında bana soru sorabilirsiniz.**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shamilkhagur&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shamilkhagur&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamilkhagur&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 Bana nasıl ulaşabilirsiniz? **LinkedIn üzerinden bana ulaşabilirsiniz. Kullanıcı adım shamilkhagur.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shamilkhagur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamilkhagur" height="30" width="40" /></a>
-<a href="https://medium.com/@samil.altin1864" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samil.altin1864" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=shamilkhagur&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" yükseklik="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" genişlik="40" yükseklik="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khagur01&show_icons=true&locale=tr&layout=compact" alt="khagur01" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=khagur01&show_icons=true&locale=tr" alt="khagur01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khagur01&" alt="khagur01" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
